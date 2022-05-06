@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rs46
 - 👀 I’m interested in sports analysis
 - 🌱 I’m currently learning python / jupyter notebook
-- 💞️ I’m looking to collaborate on sports analysis
+- 💞️ I’m looking to collaborate on sport analysis
 - 📫 How to reach me rs46@hotmail.nl
 
 <!---
